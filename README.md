@@ -24,7 +24,7 @@ PI Advisor: Dr. Adarsh Pyarelal
 
 **Research Area**
 
-Natural Language Processing • Machine Learning • Human Team Dynamics
+Natural Language Processing • Machine Learning • Human-AI Team Dynamics
 
 I contributed to the ToMCAT project, which investigates team communication in complex collaborative environments through computational modeling and machine learning. My work focused on communication pattern analysis, sequence classification, and model evaluation using human-generated language data.
 
