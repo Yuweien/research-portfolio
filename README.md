@@ -18,6 +18,39 @@ University of Arizona
 
 ## Representative Projects
 
+### ToMCAT: Team Communication Analysis
+
+**Research Area**
+
+Natural Language Processing • Machine Learning • Human Team Dynamics
+
+I worked on machine learning models for analyzing communication within collaborative teams. The project focused on detecting and classifying interaction patterns from human-generated language data to better understand team behaviors in complex task environments.
+
+**My Contributions**
+
+- NLP data preprocessing
+- Transformer-based text classification
+- Sequence classification
+- Machine learning model evaluation
+- Error analysis
+
+**Methods**
+
+- RoBERTa
+- Logistic Regression
+- Text Classification
+- Sequence Modeling
+- Python
+
+**What I Learned**
+
+- Designing end-to-end NLP pipelines
+- Working with noisy human communication data
+- Evaluating machine learning models beyond accuracy
+- Translating research questions into computational models
+
+---
+
 ### SiWeaver
 
 
@@ -27,6 +60,7 @@ SiWeaver explores how AI can support nonlinear thinking by continuously transfor
 
 [View the full concept document](https://github.com/Yuweien/research-portfolio/blob/main/SiWeaver_README.md%20at%20main%20%C2%B7%20Yuweien_SiWeaver.pdf)
 
+---
 
 ### Arizona Chinese Learner Corpus
 
@@ -44,6 +78,8 @@ As part of the MACAWS Project, I work on the Arizona Chinese Learner Corpus, foc
 
 🔗 MACAWS Project
 https://www.macawsproject.org/about/the-macaws-team
+
+---
 
 ### #ShiftThePower
 
