@@ -27,9 +27,21 @@ SiWeaver explores how AI can support nonlinear thinking by continuously transfor
 [View the full concept document](https://github.com/Yuweien/research-portfolio/blob/main/SiWeaver_README.md%20at%20main%20%C2%B7%20Yuweien_SiWeaver.pdf)
 
 
-### Learner Corpus
+### Arizona Chinese Learner Corpus
 
-...
+**Research Area**
+Corpus Linguistics • NLP • Second Language Acquisition
+
+As part of the MACAWS Project, I work on the Arizona Chinese Learner Corpus, focusing on corpus construction, annotation, NLP, and statistical modeling for second language Chinese research.
+
+**My contributions**
+- Corpus annotation and quality control
+- NLP pipeline development
+- Machine learning analysis
+- Statistical modeling of learner language
+
+🔗 MACAWS Project
+https://www.macawsproject.org/about/the-macaws-team
 
 ### #ShiftThePower
 
