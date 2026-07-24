@@ -29,9 +29,6 @@ SiWeaver explores how AI can support nonlinear thinking by continuously transfor
 
 ### Arizona Chinese Learner Corpus
 
-**Research Area**
-Corpus Linguistics • NLP • Second Language Acquisition
-
 As part of the MACAWS Project, I work on the Arizona Chinese Learner Corpus, focusing on corpus construction, annotation, NLP, and statistical modeling for second language Chinese research.
 
 **My contributions**
