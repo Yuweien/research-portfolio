@@ -18,36 +18,49 @@ University of Arizona
 
 ## Representative Projects
 
-### ToMCAT: Team Communication Analysis
+### ToMCAT: Computational Analysis of Team Communication
+
+PI Advisor: Dr. Adarsh Pyarelal
 
 **Research Area**
 
 Natural Language Processing • Machine Learning • Human Team Dynamics
 
-I worked on machine learning models for analyzing communication within collaborative teams. The project focused on detecting and classifying interaction patterns from human-generated language data to better understand team behaviors in complex task environments.
+I contributed to the ToMCAT project, which investigates team communication in complex collaborative environments through computational modeling and machine learning. My work focused on communication pattern analysis, sequence classification, and model evaluation using human-generated language data.
 
 **My Contributions**
 
-- NLP data preprocessing
 - Transformer-based text classification
 - Sequence classification
 - Machine learning model evaluation
 - Error analysis
+- Human communication modeling
 
-**Methods**
+####Related Resources
 
-- RoBERTa
-- Logistic Regression
-- Text Classification
-- Sequence Modeling
-- Python
+**Project**
+- ToMCAT Project: https://ml4ai.github.io/tomcat/
+
+**Representative Task**
+- CLC Detection: https://adarsh.cc/research/clc.html
+
+**Dataset**
+- Team Communication Dataset (NeurIPS 2023 Datasets & Benchmarks): https://proceedings.neurips.cc/paper_files/paper/2023/hash/803d8d4b4a549d0d062fc704f8659ce3-Abstract-Datasets_and_Benchmarks.html
+
+**Related Publications**
+- Modeling Team Communication (ACL 2022): https://aclanthology.org/2022.pandl-1.9/
+- Team Communication Analysis (Findings of NAACL 2025): https://aclanthology.org/2025.findings-naacl.61/
+
+#### Skills
+
+Python • NLP • Transformer Models • Machine Learning • Sequence Classification • Evaluation
 
 **What I Learned**
 
-- Designing end-to-end NLP pipelines
-- Working with noisy human communication data
-- Evaluating machine learning models beyond accuracy
-- Translating research questions into computational models
+- Modeling communication in collaborative teams
+- Working with large-scale annotated language datasets
+- Evaluating machine learning systems on human communication tasks
+- Translating computational methods into behavioral insights
 
 ---
 
