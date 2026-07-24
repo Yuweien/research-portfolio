@@ -36,7 +36,7 @@ I contributed to the ToMCAT project, which investigates team communication in co
 - Error analysis
 - Human communication modeling
 
-####Related Resources
+
 
 **Project**
 - ToMCAT Project: https://ml4ai.github.io/tomcat/
