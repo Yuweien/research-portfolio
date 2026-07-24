@@ -48,7 +48,7 @@ I contributed to the ToMCAT project, which investigates team communication in co
 - Team Communication Dataset (NeurIPS 2023 Datasets & Benchmarks): https://proceedings.neurips.cc/paper_files/paper/2023/hash/803d8d4b4a549d0d062fc704f8659ce3-Abstract-Datasets_and_Benchmarks.html
 
 **Related Publications**
-- Modeling Team Communication (ACL 2022): https://aclanthology.org/2022.pandl-1.9/
+- Modeling Team Communication (PANDL 2022): https://aclanthology.org/2022.pandl-1.9/
 - Team Communication Analysis (Findings of NAACL 2025): https://aclanthology.org/2025.findings-naacl.61/
 
 #### Skills
