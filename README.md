@@ -116,3 +116,22 @@ The associated research paper is currently under peer review. Due to the ongoing
 
 🔗 Project website:
 https://shiftthepower.org/
+
+---
+
+### Traditional Chinese Cultural Elements as Complex Networks (2021)
+
+My early research explored how NLP and complex network analysis can be combined to organize large-scale cultural knowledge. This project introduced me to network science, community detection, and information organization—ideas that continue to influence my current interests in social computing and Human-AI Interaction.
+
+**Methods**
+
+- NLP
+- Unsupervised Word Segmentation
+- TF-IDF
+- Complex Networks
+- Community Detection
+- Network Topology Analysis
+
+- Link: https://onlinelibrary.wiley.com/doi/full/10.1155/2021/6693753
+
+
