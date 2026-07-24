@@ -121,8 +121,7 @@ https://shiftthepower.org/
 
 ### Traditional Chinese Cultural Elements as Complex Networks (2021)
 
-My early research explored how NLP and complex network analysis can be combined to organize large-scale cultural knowledge. This project introduced me to network science, community detection, and information organization—ideas that continue to influence my current interests in social computing and Human-AI Interaction.
-
+My early research explored how NLP and complex network analysis can be combined to organize large-scale cultural knowledge. This project introduced me to network science, community detection, and information organization.
 **Methods**
 
 - NLP
